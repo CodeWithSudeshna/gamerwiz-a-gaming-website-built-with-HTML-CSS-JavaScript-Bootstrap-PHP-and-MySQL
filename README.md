@@ -1,6 +1,4 @@
 # -A-full-featured-gaming-website-built-with-HTML-CSS-JavaScript-Bootstrap-PHP-and-MySQL-
-A gaming website with user login, scores, tournaments, giveaways, and interactive gameplay.
-
 
 **Gamer Wiz** is a dynamic, responsive gaming website built using **HTML, CSS, JavaScript, Bootstrap, PHP, and MySQL**. It provides users with an interactive experience, login system, game selection, score tracking, and more.
 
