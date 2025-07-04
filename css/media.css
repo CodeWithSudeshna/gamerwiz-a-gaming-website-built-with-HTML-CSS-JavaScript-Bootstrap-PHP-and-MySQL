@@ -1,0 +1,159 @@
+@media only screen and (max-width: 1400px) {
+	.magazine-btn{
+	width: 60%;
+	}
+	.about-grid {
+        padding-left:4.5rem;
+        padding-right: 4.5rem;
+        padding-top: 3rem;
+        padding-bottom: 3rem
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+	.magazine-btn{
+	width: 56%;
+	}
+	.games-btn{
+	width: 24%;
+	}
+	.glow{
+	font-size: 48px;
+	}
+
+}
+
+@media only screen and (max-width: 992px) {
+	.games-btn{
+	width: 36%;
+	}
+	.glow{
+		font-size: 35px;
+	}
+
+}
+
+
+@media only screen and (max-width: 768px) {
+	.glow {
+		 font-size: 43px;
+	}
+	.games-btn{
+	width: 56%;
+	}
+	.glow{
+		font-size: 28px;
+
+	}
+	[data-aos-delay]{transition-delay:0!important}
+
+}
+
+@media only screen and (max-width : 960px) {
+    .about-grid {
+        padding:0
+    }
+}
+
+@media only screen and (max-width : 685px) {
+	.glow{
+		font-size: 25px;
+		margin-top: -6%;
+	}
+}
+
+@media only screen and (max-width : 652px) {
+	.glow{
+		font-size: 20px;
+		margin-top: -8%;
+		letter-spacing: 15px;
+	}
+}
+
+@media only screen and (max-width : 512px) {
+	.glow{
+		font-size: 16px;
+		margin-top: -12%;
+		letter-spacing: 12px;
+	}
+}
+
+@media (max-width:450px){
+
+  .container .box-container{
+    grid-template-columns: 1fr;
+  }
+
+  .container .box-container .crate .game-imgs{
+    height: 200px;
+  }
+
+  .container .box-container .crate .game-infoo p{
+    font-size: 12px;
+  }
+
+}
+
+@media only screen and (max-width : 436px) {
+	.glow{
+		
+		margin-top: -15%;
+		
+	}
+}
+
+@media only screen and (max-width : 417px) {
+	.glow{
+		font-size: 14px;
+		margin-top: -18%;
+		letter-spacing: 10px;
+	}
+}
+
+@media only screen and (max-width : 362px) {
+	.glow{
+		font-size: 12px;
+		margin-top: -23%;
+		letter-spacing: 9px;
+	}
+}
+
+@media (min-width: 768px) {
+  header .container span {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  :root {
+    --m: 2rem;
+  }
+}
+ 
+@media (max-width: 768px) {
+	.upcoming-review {
+		font-size: 16px;
+	}
+	.review h1 {
+		font-size: 28px;
+	}
+	.home-review-txt {
+		font-size: 14px;
+	}
+}
+
+@media (max-width: 768px) {
+  .contact-heading {
+    font-size: 32px;
+    letter-spacing: 3px;
+  }
+  
+  .form-option {
+    font-size: 24px;
+    padding: 20px;
+  }
+
+  .form-container {
+    padding: 20px;
+  }
+}
