@@ -24,7 +24,7 @@
     </head>
     <body>
 
-        <?php include 'navbar-logout.html'; ?>
+        <?php include 'navbar-logout.php'; ?>
 
     </body>
 </html>

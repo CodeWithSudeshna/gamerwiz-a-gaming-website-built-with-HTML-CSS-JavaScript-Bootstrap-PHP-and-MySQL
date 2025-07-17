@@ -393,19 +393,18 @@ header .container span {
 	color: #C6C4C4;
 }
 .follow i{
-	margin-top: 5px;
-	width: 32px;
-	height: 28px;
-	padding-top: 4px;
-	margin-right: 9px;
-	color: #FF543E;
-	border: 1px solid #F24E1E;
-	font-size: 18px;
+  width: 34px;
+  height: 34px;
+  color: #F24E1E;
+  border: 1px solid #F24E1E;
+  font-size: 16px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5px;
+  /* transition: all 0.2s ease-in-out; */
 }
-.follow a{
-	text-decoration: none;
-	color: #FF543E;
-}
+
 .ftr-bttn{
 	color: #C6C4C4;
 }
@@ -431,13 +430,10 @@ header .container span {
 	padding-top: 20px;
 	color: #C6C4C4;
 }
-.cpyrgt a{
-	text-decoration: none;
-  color: #FF543E;
+.my-email{
+  text-decoration-color: #797979;
 }
-.cpyrgt a:hover{
-  color: #FF543E;
-}
+
 /* ---- end footer part ---- */
 
 
@@ -508,9 +504,9 @@ header .container span {
 	font-size: 20px;
 }
 .abt-button a:hover{
-	color: #ff6933;
+	color: #FF543E;
 }
-/* ---- End-about-gaming-to the-next-level ---- */
+/* ---- End-gaming-to the-next-level ---- */
 
 
 /* ---- start-games-section ---- */
@@ -3034,8 +3030,8 @@ input:-webkit-autofill {
 
 .back-to-top {
   position: fixed;
-  bottom: 30px;
-  right: 60px;
+  bottom: 75px;
+  right: 80px;
   z-index: 9999;
   display: none; /* hidden by default, shown on scroll */
   width: 65px;

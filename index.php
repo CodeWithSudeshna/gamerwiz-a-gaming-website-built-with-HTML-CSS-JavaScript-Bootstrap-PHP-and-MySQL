@@ -113,7 +113,7 @@
 								</div>		
 								<h3 class="my-3">Play to Earn </h3>
 								<p>Earning cryptocurrency tokens, which can then be exchanged for the desired currency.</p>
-								<div class="abt-button"><a href="games.html">Play Now <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></div>
+								<div class="abt-button"><a href="gamepoints.php">Play Now <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></div>
 							</div>
 						</div>
 
@@ -124,7 +124,7 @@
 								</div>
 								<h3 class="my-3">Instant Payouts </h3>
 								<p>Withdraw easily with instant payouts on 99% withdrawals via various methods.</p>
-								<div class="abt-button"><a href="games.html">Play Now <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></div>
+								<div class="abt-button"><a href="gamepoints.php">Play Now <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></div>
 							</div>
 						</div>
 
@@ -135,9 +135,10 @@
 								</div>	
 								<h3 class="mt-2 mb-3 my-3">Best Support </h3>
 								<p>Get quick replies from our friendly staff 24/7. Expect a response in under 90 seconds!</p>
-								<div class="abt-button"><a href="games.html">Play Now <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></div>
+								<div class="abt-button"><a href="gamepoints.php">Play Now <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a></div>
 							</div>
 						</div>
+
 					</div>
 				</div>
 			</section>
@@ -146,7 +147,7 @@
 
 			<!-- start-home-games-section -->
 			<section class="games">
-				<div class="container-fluid pb-5 text-center">
+				<div class="container-fluid pt-4 pb-5 text-center">
 					<div class="row">
 						<div class="col-12 mt-3 pb-3"> 
 							<h1 class="col-12 text-center mt-5 pt-5 pb-3 text-white"> Popular <font color="#FF543E"> Games </font> </h1>
@@ -228,7 +229,7 @@
 			<section class="upcoming">
 				<div class="container py-5">
 					<div class="row">
-						<div class="col-12 pb-3 text-center">
+						<div class="col-12 pb-3 pt-4 text-center">
 							<h1 class="text-white">
 							Upcoming <span style="color:#FF543E;">Games</span>
 							</h1>
@@ -275,7 +276,7 @@
 			<!-- start-home-tournaments -->
 			<section id="tournament" class="tournaments py-5">
 				<div class="container">
-					<div class="text-center text-white mb-5">
+					<div class="text-center text-white mb-5 pt-4">
 					<h1 class="text-">Tournaments</h1>
 					<p class="upcoming-trnmnt mt-3">
 						Stay tuned for thrilling tournaments on our website! Exciting battles await gamers
@@ -377,8 +378,8 @@
 
 
 			<!-- start-home-recent-news -->
-			<section class="news">
-				<h1 class="col-12 mt-4 py-5 text-center text-white"> Recent <font color="#FF543E"> News </font> </h1>
+			<section class="news pb-3">
+				<h1 class="col-12 mt-5 pt-5 text-center text-white"> Recent <font color="#FF543E"> News </font> </h1>
 
 				<div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
 				  <div class="carousel-indicators">
@@ -479,23 +480,28 @@
 			<section class="magazine">
 				<div class="container-fluid text-center mt-5">
 					<div class="row">
+						
 						<div class="col-lg-6 col-xl-6 col-md-6 col-sm-12">
 							<img class="img-fluid p-5" src="IMAGES/magazine.png">
 						</div>
-						<div class="col-lg-6 col-xl-6 col-md-6 col-sm-12 p-4 mt-5 text-white text-center">
-							<h3 class="magazine-heading pt-5">GET 
+						
+						<div class="col-lg-6 col-xl-6 col-md-6 col-sm-12 pt-5 mt-5 text-white text-center">
+							<h2 class="magazine-heading pt-5 pb-2">GET 
 								<b><font color="#7C2100"> GAMEINFORMER </font></b> IN PRINT!
-							</h3>
+							</h2>
+
 							<p class="magazine-info text-white pb-3">Subscribe now to the 
-								<font color="#CCFF00">INDUSTRY’S LEADING GAMING <br> MAGAZINE 
+								<font color="#CCFF00">INDUSTRY'S LEADING GAMING <br> MAGAZINE 
 								</font> for only 
 								<font color="#14FF00">$</font>19.90
 							</p>
+
 							<div class="button-size">
-								<a class="magazine-btn button btn-lg my-3" href="#" role="button">
+								<a class="magazine-btn button btn-lg" href="#" role="button">
 									Subscribe to Print Magazine</a>
 							</div>
 						</div>
+
 					</div>
 				</div>
 			</section>
